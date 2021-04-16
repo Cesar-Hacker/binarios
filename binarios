@@ -32,7 +32,7 @@ trap ctrl_c 2
 	while read -p "Que binario quieres?  >> " SIGN && [ -z $SIGN ]; do
 		printf "$R
 		[Cesar🐿] Porfavor escribe un numero valido
-		\n $W"
+		\n $W"6381738188
 	done
 
 
